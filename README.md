@@ -100,7 +100,7 @@ Experiments are performed for different medical segmentation tasks including, po
 If you use TransResNet, please consider citing:
 
     @inproceedings{Sharif2022TransResNet,
-        title={RTransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting}, 
+        title={TransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting}, 
         author={Muhammad Hamza Sharif and Dmitry Demidov and Asif Hanif and Mohammad Yaqub and Min Xu},
         booktitle={BMVC},
         year={2022}
