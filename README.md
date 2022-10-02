@@ -26,15 +26,19 @@ See [INSTALL.md](INSTALL.md) for the installation of dependencies required to ru
 
 To test the pre-trained TransResNet models of [Skin-Segmentation](), [Polyp-Segmentation](), and [Retinal-Vessel-Segmentation]() on your images you can either use the following command as:
 ```
-python demo.py --task Task_Name --input_dir path_to_images --result_dir save_images_here
+python 
 ```
-Example usage to perform Defocus Deblurring on a directory of images:
+Example usage to perform Skin-Segmentation on a directory of images:
 ```
-python demo.py --task Single_Image_Defocus_Deblurring --input_dir './demo/degraded/' --result_dir './demo/restored/'
+python 
 ```
-Example usage to perform Defocus Deblurring on an image directly:
+Example usage to perform Retinal-Vessel-Segmentation on a directory of images:
 ```
-python demo.py --task Single_Image_Defocus_Deblurring --input_dir './demo/degraded/portrait.jpg' --result_dir './demo/restored/'
+python 
+```
+Example usage to perform Polyp-Segmentation on a directory of images:
+```
+python 
 ```
 ## Training and Evaluation
 
@@ -64,7 +68,37 @@ Training and Testing instructions for Skin, Polyp, and Retinal-Vessel segmentati
 
 </table>
 
+## Results
+Experiments are performed for different medical segmentation tasks including, polyp, skin, and retinal-vessel.
+
+<details>
+<summary><strong>Skin Segmentation</strong> (click to expand) </summary>
+<p align="left"><img src = "https://github.com/Sharifmhamza/TransResNet/blob/main/Results/Skin-results.png" width="400"></p>
+</details>
 
 
+<details>
+<summary><strong>Retinal Vessel Segmentation</strong> (click to expand) </summary>
+<p align="left"><img src = "https://github.com/Sharifmhamza/TransResNet/blob/main/Results/Retinal-vessel-results.png" width="400"></p></details>
+</details>
+
+<details>
+<summary><strong>Polyp Segmentation</strong> (click to expand) </summary>
+<p align="center"><img src = "https://github.com/Sharifmhamza/TransResNet/blob/main/Results/Polyp-results.png"></p></details>
+</details>
+
+## Citation
+If you use TransResNet, please consider citing:
+
+    @inproceedings{Sharif2022TransResNet,
+        title={RTransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting}, 
+        author={Muhammad Hamza Sharif and Dmitry Demidov and Asif Hanif and Mohammad Yaqub and Min Xu},
+        booktitle={BMVC},
+        year={2022}
+    }
+
+
+## Contact
+Should you have any question, please contact sharifmhamza@gmail.com
 
 
