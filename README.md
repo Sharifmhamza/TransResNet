@@ -71,14 +71,13 @@ Training and Testing instructions for Skin, Polyp, and Retinal-Vessel segmentati
 
 </table>
 
-## Results
+## Quantitative Results
 Experiments are performed for different medical segmentation tasks including, polyp, skin, and retinal-vessel.
 
 <details>
 <summary><strong>Skin Segmentation</strong> (click to expand) </summary>
 <p align="left"><img src = "https://github.com/Sharifmhamza/TransResNet/blob/main/Results/Skin-results.png" width="400"></p>
 </details>
-
 
 <details>
 <summary><strong>Retinal Vessel Segmentation</strong> (click to expand) </summary>
@@ -89,6 +88,13 @@ Experiments are performed for different medical segmentation tasks including, po
 <summary><strong>Polyp Segmentation</strong> (click to expand) </summary>
 <p align="center"><img src = "https://github.com/Sharifmhamza/TransResNet/blob/main/Results/Polyp-results.png"></p></details>
 </details>
+
+## Qualitative Results
+<details>
+<summary><strong>Qualitative Results</strong> (click to expand)</summary>
+<p align="center"><img src = "https://github.com/Sharifmhamza/TransResNet/blob/main/Results/Qualitative%20Results.png"></p></details>
+</details>
+
 
 ## Citation
 If you use TransResNet, please consider citing:
