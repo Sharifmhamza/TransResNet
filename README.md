@@ -16,7 +16,10 @@ or competitive results on several segmentation tasks, including skin lesion, ret
 
 ## Network Architecture
 
-<img src = "https://github.com/Sharifmhamza/TransResNet/blob/main/Architecture.png"> 
-<img align="center" src="ttps://github.com/Sharifmhamza/TransResNet/blob/main/CGM.png">
+<p float="left">
+  <img src="https://github.com/Sharifmhamza/TransResNet/blob/main/Architecture.png" width="600" align="center"//>
+  <img src="https://github.com/Sharifmhamza/TransResNet/blob/main/CGM.png" width="400" align="center"/> 
+</p>
+
 
 
