@@ -23,7 +23,7 @@ or competitive results on several segmentation tasks, including skin lesion, ret
 
 ## Installation
 
-See [INSTALL.md](INSTALL.md) for the installation of dependencies required to run TransResNet.
+See [INSTALL.md](install.md) for the installation of dependencies required to run TransResNet.
 
 ## Demo
 
