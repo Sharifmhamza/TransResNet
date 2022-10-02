@@ -45,25 +45,21 @@ Training and Testing instructions for Skin, Polyp, and Retinal-Vessel segmentati
     <th align="left">Task</th>
     <th align="center">Training Instructions</th>
     <th align="center">Testing Instructions</th>
-    <th align="center">TransResNet Visual Results</th>
   </tr>
   <tr>
     <td align="left">Skin Segmentation</td>
-    <td align="center"><a href="Deraining/README.md#training">Link</a></td>
-    <td align="center"><a href="Deraining/README.md#evaluation">Link</a></td>
-    <td align="center"><a href="https://drive.google.com/drive/folders/1HcLc6v03q_sP_lRPcl7_NJmlB9f48TWU?usp=sharing">Download</a></td>
+    <td align="center"><a href="https://github.com/Sharifmhamza/TransResNet/blob/main/Skin-Segmentation/skin.md">Link</a></td>
+    <td align="center"><a href="https://github.com/Sharifmhamza/TransResNet/blob/main/Skin-Segmentation/skin.md">Link</a></td>
   </tr>
   <tr>
     <td>Polyp Segmentation</td>
-    <td align="center"><a href="Motion_Deblurring/README.md#training">Link</a></td>
-    <td align="center"><a href="Motion_Deblurring/README.md#evaluation">Link</a></td>
-    <td align="center"><a href="https://drive.google.com/drive/folders/1qla3HEOuGapv1hqBwXEMi2USFPB2qmx_?usp=sharing">Download</a></td>
+    <td align="center"><a href="https://github.com/Sharifmhamza/TransResNet/blob/main/Polyp-Segmentation/polyp.md">Link</a></td>
+    <td align="center"><a href="https://github.com/Sharifmhamza/TransResNet/blob/main/Polyp-Segmentation/polyp.md">Link</a></td>
   </tr>
   <tr>
     <td>Retinal Vessel Segmentation</td>
-    <td align="center"><a href="Defocus_Deblurring/README.md#training">Link</a></td>
-    <td align="center"><a href="Defocus_Deblurring/README.md#evaluation">Link</a></td>
-    <td align="center"><a href="https://drive.google.com/drive/folders/1V_pLc9CZFe4vN7c4SxtXsXKi2FnLUt98?usp=sharing">Download</a></td>
+    <td align="center"><a href="https://github.com/Sharifmhamza/TransResNet/blob/main/Retinal-Vessel-Segmentation/retinal_vessel.md">Link</a></td>
+    <td align="center"><a href="https://github.com/Sharifmhamza/TransResNet/blob/main/Retinal-Vessel-Segmentation/retinal_vessel.md">Link</a></td>
   </tr>
 
 </table>
