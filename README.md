@@ -17,7 +17,6 @@ or competitive results on several segmentation tasks, including skin lesion, ret
 ## Network Architecture
 
   <img src="https://github.com/Sharifmhamza/TransResNet/blob/main/Architecture.png" align="center">
-  <img src="https://github.com/Sharifmhamza/TransResNet/blob/main/CGM.png" align="center" width="500"> 
 
 
 
