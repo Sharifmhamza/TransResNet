@@ -16,7 +16,7 @@ or competitive results on several segmentation tasks, including skin lesion, ret
 
 ## Network Architecture
 
-<img src="https://github.com/Sharifmhamza/TransResNet/blob/main/Architecture.png" align="center">
+<img src="https://github.com/Sharifmhamza/TransResNet/blob/main/Final-Architecture.png" align="center">
 <p align="center"><img src = "https://github.com/Sharifmhamza/TransResNet/blob/main/CrossGM.png" width="500"></p>
 <p align="center"><strong>Cross Grafting Module</strong></p>
 
