@@ -1,5 +1,5 @@
-## TransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting (BMVC 2022)
-[Muhammad Hamza Sharif](https://github.com/Sharifmhamza/), [Dmitry Demidov](https://github.com/Talal-Algumaei/), [Asif Hanif](https://github.com/asif-hanif/), [Mohammad Yaqub](https://scholar.google.co.uk/citations?hl=en&user=9dfn5GkAAAAJ&view_op=list_works&sortby=pubdate/), and [Min Xu](https://xulabs.github.io/)
+## TransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting (BMVC 2022) (Will updated soon)
+[Muhammad Hamza Sharif](https://github.com/Sharifmhamza/), [Dmitry Demidov](https://github.com/demidovd98/), [Asif Hanif](https://github.com/asif-hanif/), [Mohammad Yaqub](https://scholar.google.co.uk/citations?hl=en&user=9dfn5GkAAAAJ&view_op=list_works&sortby=pubdate/), and [Min Xu](https://xulabs.github.io/)
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
 [![supplement](https://img.shields.io/badge/Supplementary-Material-red)]()
